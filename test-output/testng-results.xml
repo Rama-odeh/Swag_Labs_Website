@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-10T10:26:24 EEST" name="Default suite" finished-at="2024-06-10T10:26:26 EEST" duration-ms="2032">
+    <groups>
+    </groups>
+    <test started-at="2024-06-10T10:26:24 EEST" name="Default test" finished-at="2024-06-10T10:26:26 EEST" duration-ms="2032">
+      <class name="VerifyTheSystem">
+        <test-method signature="verifyTheLogin()[pri:1, instance:VerifyTheSystem@1992eaf4]" started-at="2024-06-10T10:26:24 EEST" name="verifyTheLogin" finished-at="2024-06-10T10:26:26 EEST" duration-ms="1797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheLogin -->
+        <test-method signature="findAllElementThatHasContainWordLabs()[pri:8, instance:VerifyTheSystem@1992eaf4]" started-at="2024-06-10T10:26:26 EEST" name="findAllElementThatHasContainWordLabs" finished-at="2024-06-10T10:26:26 EEST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findAllElementThatHasContainWordLabs -->
+      </class> <!-- VerifyTheSystem -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
